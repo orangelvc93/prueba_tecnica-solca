@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "1",
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "description": "Una novela que narra la historia de la familia Buendía a lo largo de varias generaciones en el pueblo ficticio de Macondo.",
+    "image": "https://www.mrbooks.com/mrbooks/portadas/9786287641587.webp"
+  },
+  {
+    "_id": "2",
+    "title": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes",
+    "description": "Una historia sobre un hidalgo que enloquece y se convierte en caballero andante para revivir la caballería.",
+    "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/c0/63/c0633c2d4dd430b32d5e02475461f030.jpg"
+  },
+  {
+    "_id": "3",
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "Una novela distópica que explora el totalitarismo y la vigilancia extrema en una sociedad futura.",
+    "image": "https://images.cdn1.buscalibre.com/fit-in/360x360/ab/54/ab54a82815e061d7fc8f22bcd22f2605.jpg"
+  },
+  {
+    "_id": "4",
+    "title": "El Principito",
+    "author": "Antoine de Saint-Exupéry",
+    "description": "Un cuento sobre un niño que explora el universo y reflexiona sobre la naturaleza humana.",
+    "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/ee/51/ee513da2b43ecd37f02872f2a70ea597.jpg"
+  },
+  {
+    "_id": "5",
+    "title": "Crónica de una muerte anunciada",
+    "author": "Gabriel García Márquez",
+    "description": "Una novela corta que narra los hechos previos al asesinato de Santiago Nasar en un pueblo pequeño.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBB864HsyzicB97xFq5mb1FSzaRiatzGNe_g&s"
+  }
+]
